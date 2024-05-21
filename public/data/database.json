@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "ad1",
+      "username": "pablo",
+      "lastName": "lopez",
+      "email": "pablitodahiana@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e5ad",
+      "username": "Carolina",
+      "lastName": "Osorio Alzate",
+      "email": "cumbre654@stokenmail.com",
+      "password": "0987"
+    }
+  ]
+}
